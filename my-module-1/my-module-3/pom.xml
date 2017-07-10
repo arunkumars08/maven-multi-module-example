@@ -3,14 +3,14 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.redhat.demo</groupId>
-    <artifactId>my-app</artifactId>
+    <artifactId>my-module-1</artifactId>
     <version>1</version>
   </parent>
   <groupId>com.redhat.demo</groupId>
-  <artifactId>my-module-2</artifactId>
+  <artifactId>my-module-3</artifactId>
   <version>1</version>
-  <name>my-module-2</name>
-  <description>my-module-2</description>
+  <name>my-module-3</name>
+  <description>my-module-3</description>
 
   <dependencies>
         <dependency>
