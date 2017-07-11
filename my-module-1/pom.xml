@@ -12,11 +12,6 @@
   <version>1</version>
   <name>my-module-1</name>
   <description>my-module-1</description>
-  <packaging>pom</packaging>
-
-  <modules>
-    <module>my-module-3</module>
-  </modules>
 
   <dependencies>
         <dependency>
